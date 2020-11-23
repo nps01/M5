@@ -3,3 +3,7 @@
 
 11/16/2020
 <a href="https://docs.google.com/document/d/1X0G8LsSOJYbofOHd77bDb059PTqDJ7Oc9D3oHqp_lak/edit"> M5 Assignment S2_03 </a>
+
+
+11/23/2020
+<a href="https://docs.google.com/document/d/1wuPSFLEbLS2hKKHNpwGnY11dbYgK90BxitEl8uE9u04/edit?usp=sharing"> M5 Assignment S2_04 </a>
