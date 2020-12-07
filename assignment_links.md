@@ -10,4 +10,4 @@
 
 
 12/02/2020
-<a href="https://docs.google.com/document/d/1Z5UC4bPRtdCiLFr2yPrEAI2jH7_jztV-MQdIb5KFLWg/edit"> M5 Extra Credit - SAT Math in Python </a>
+<a href="https://docs.google.com/document/d/1Z5UC4bPRtdCiLFr2yPrEAI2jH7_jztV-MQdIb5KFLWg/edit"> M5 SAT Math in Python </a>
